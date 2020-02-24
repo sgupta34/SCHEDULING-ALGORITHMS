@@ -1,0 +1,599 @@
+initialization or start of process
+process  0  in READY state
+process  0  EXECUTING
+Input/Output operation stated for process  1
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  FINAL Execution
+process  0  TERMINATED at  522
+---------------------------------------------------------------------------------------
+process  1  in READY state
+process  1  EXECUTING
+Input/Output operation stated for process  2
+process  1  in I/O queue
+process  1  in I/O channel
+process  1  in READY state
+process  1  EXECUTING at CPU
+process  1  in I/O queue
+process  1  in I/O channel
+process  1  in READY state
+process  1  EXECUTING at CPU
+process  1  in I/O queue
+process  1  in I/O channel
+process  1  in READY state
+process  1  EXECUTING at CPU
+process  1  in I/O queue
+process  1  in I/O channel
+process  1  in READY state
+process  1  EXECUTING at CPU
+process  1  in I/O queue
+process  1  in I/O channel
+process  1  in READY state
+process  1  EXECUTING at CPU
+process  1  in I/O queue
+process  1  in I/O channel
+process  1  in READY state
+process  1  EXECUTING at CPU
+process  1  in I/O queue
+process  1  FINAL Execution
+process  1  TERMINATED at  770
+---------------------------------------------------------------------------------------
+process  2  in READY state
+process  2  EXECUTING
+Input/Output operation stated for process  3
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  FINAL Execution
+process  2  TERMINATED at  1336
+---------------------------------------------------------------------------------------
+process  3  in READY state
+process  3  EXECUTING
+Input/Output operation stated for process  4
+process  3  in I/O queue
+process  3  in I/O channel
+process  3  in READY state
+process  3  EXECUTING at CPU
+process  3  in I/O queue
+process  3  in I/O channel
+process  3  in READY state
+process  3  EXECUTING at CPU
+process  3  in I/O queue
+process  3  in I/O channel
+process  3  in READY state
+process  3  EXECUTING at CPU
+process  3  in I/O queue
+process  3  FINAL Execution
+process  3  TERMINATED at  1504
+---------------------------------------------------------------------------------------
+process  4  in READY state
+process  4  EXECUTING
+Input/Output operation stated for process  5
+process  4  in I/O queue
+process  4  in I/O channel
+process  4  in READY state
+process  4  EXECUTING at CPU
+process  4  in I/O queue
+process  4  in I/O channel
+process  4  in READY state
+process  4  EXECUTING at CPU
+process  4  in I/O queue
+process  4  in I/O channel
+process  4  in READY state
+process  4  EXECUTING at CPU
+process  4  in I/O queue
+process  4  in I/O channel
+process  4  in READY state
+process  4  EXECUTING at CPU
+process  4  in I/O queue
+process  4  in I/O channel
+process  4  in READY state
+process  4  EXECUTING at CPU
+process  4  in I/O queue
+process  4  in I/O channel
+process  4  in READY state
+process  4  EXECUTING at CPU
+process  4  in I/O queue
+process  4  in I/O channel
+process  4  in READY state
+process  4  EXECUTING at CPU
+process  4  in I/O queue
+process  4  in I/O channel
+process  4  in READY state
+process  4  EXECUTING at CPU
+process  4  in I/O queue
+process  4  in I/O channel
+process  4  in READY state
+process  4  EXECUTING at CPU
+process  4  in I/O queue
+process  4  in I/O channel
+process  4  in READY state
+process  4  EXECUTING at CPU
+process  4  in I/O queue
+process  4  in I/O channel
+process  4  in READY state
+process  4  EXECUTING at CPU
+process  4  in I/O queue
+process  4  FINAL Execution
+process  4  TERMINATED at  2122
+---------------------------------------------------------------------------------------
+process  5  in READY state
+process  5  EXECUTING
+process  5  TERMINATED AT  2129
+---------------------------------------------------------------------------------------
+process  6  in READY state
+process  6  EXECUTING
+process  6  TERMINATED AT  2183
+---------------------------------------------------------------------------------------
+process  7  in READY state
+process  7  EXECUTING
+process  7  TERMINATED AT  2242
+---------------------------------------------------------------------------------------
+process  8  in READY state
+process  8  EXECUTING
+Input/Output operation stated for process  9
+process  8  in I/O queue
+process  8  in I/O channel
+process  8  in READY state
+process  8  EXECUTING at CPU
+process  8  in I/O queue
+process  8  in I/O channel
+process  8  in READY state
+process  8  EXECUTING at CPU
+process  8  in I/O queue
+process  8  FINAL Execution
+process  8  TERMINATED at  2411
+---------------------------------------------------------------------------------------
+process  9  in READY state
+process  9  EXECUTING
+Input/Output operation stated for process  10
+process  9  in I/O queue
+process  9  in I/O channel
+process  9  in READY state
+process  9  EXECUTING at CPU
+process  9  in I/O queue
+process  9  in I/O channel
+process  9  in READY state
+process  9  EXECUTING at CPU
+process  9  in I/O queue
+process  9  in I/O channel
+process  9  in READY state
+process  9  EXECUTING at CPU
+process  9  in I/O queue
+process  9  FINAL Execution
+process  9  TERMINATED at  2664
+---------------------------------------------------------------------------------------
+initialization or start of process
+process  5  in READY state
+process  5  EXECUTING
+process  5  TERMINATED AT  117
+---------------------------------------------------------------------------------------
+process  6  in READY state
+process  6  EXECUTING
+Input/Output operation stated for process  7
+process  6  in I/O queue
+process  6  in I/O channel
+process  6  in READY state
+process  6  EXECUTING at CPU
+process  6  in I/O queue
+process  6  FINAL Execution
+process  6  TERMINATED at  177
+---------------------------------------------------------------------------------------
+process  7  in READY state
+process  7  EXECUTING
+Input/Output operation stated for process  8
+process  7  in I/O queue
+process  7  in I/O channel
+process  7  in READY state
+process  7  EXECUTING at CPU
+process  7  in I/O queue
+process  7  FINAL Execution
+process  7  TERMINATED at  242
+---------------------------------------------------------------------------------------
+process  3  in READY state
+process  3  EXECUTING
+Input/Output operation stated for process  4
+process  3  in I/O queue
+process  3  in I/O channel
+process  3  in READY state
+process  3  EXECUTING at CPU
+process  3  in I/O queue
+process  3  in I/O channel
+process  3  in READY state
+process  3  EXECUTING at CPU
+process  3  in I/O queue
+process  3  in I/O channel
+process  3  in READY state
+process  3  EXECUTING at CPU
+process  3  in I/O queue
+process  3  FINAL Execution
+process  3  TERMINATED at  410
+---------------------------------------------------------------------------------------
+process  8  in READY state
+process  8  EXECUTING
+Input/Output operation stated for process  9
+process  8  in I/O queue
+process  8  in I/O channel
+process  8  in READY state
+process  8  EXECUTING at CPU
+process  8  in I/O queue
+process  8  in I/O channel
+process  8  in READY state
+process  8  EXECUTING at CPU
+process  8  in I/O queue
+process  8  in I/O channel
+process  8  in READY state
+process  8  EXECUTING at CPU
+process  8  in I/O queue
+process  8  FINAL Execution
+process  8  TERMINATED at  582
+---------------------------------------------------------------------------------------
+process  1  in READY state
+process  1  EXECUTING
+Input/Output operation stated for process  2
+process  1  in I/O queue
+process  1  in I/O channel
+process  1  in READY state
+process  1  EXECUTING at CPU
+process  1  in I/O queue
+process  1  in I/O channel
+process  1  in READY state
+process  1  EXECUTING at CPU
+process  1  in I/O queue
+process  1  in I/O channel
+process  1  in READY state
+process  1  EXECUTING at CPU
+process  1  in I/O queue
+process  1  in I/O channel
+process  1  in READY state
+process  1  EXECUTING at CPU
+process  1  in I/O queue
+process  1  FINAL Execution
+process  1  TERMINATED at  824
+---------------------------------------------------------------------------------------
+process  9  in READY state
+process  9  EXECUTING
+Input/Output operation stated for process  10
+process  9  in I/O queue
+process  9  in I/O channel
+process  9  in READY state
+process  9  EXECUTING at CPU
+process  9  in I/O queue
+process  9  in I/O channel
+process  9  in READY state
+process  9  EXECUTING at CPU
+process  9  in I/O queue
+process  9  in I/O channel
+process  9  in READY state
+process  9  EXECUTING at CPU
+process  9  in I/O queue
+process  9  in I/O channel
+process  9  in READY state
+process  9  EXECUTING at CPU
+process  9  in I/O queue
+process  9  FINAL Execution
+process  9  TERMINATED at  1080
+---------------------------------------------------------------------------------------
+process  0  in READY state
+process  0  EXECUTING
+Input/Output operation stated for process  1
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  in I/O channel
+process  0  in READY state
+process  0  EXECUTING at CPU
+process  0  in I/O queue
+process  0  FINAL Execution
+process  0  TERMINATED at  1516
+---------------------------------------------------------------------------------------
+process  2  in READY state
+process  2  EXECUTING
+Input/Output operation stated for process  3
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  in I/O channel
+process  2  in READY state
+process  2  EXECUTING at CPU
+process  2  in I/O queue
+process  2  FINAL Execution
+process  2  TERMINATED at  2064
+---------------------------------------------------------------------------------------
+process  4  in READY state
+process  4  EXECUTING
+Input/Output operation stated for process  5
+process  4  in I/O queue
+process  4  in I/O channel
+process  4  in READY state
+process  4  EXECUTING at CPU
+process  4  in I/O queue
+process  4  in I/O channel
+process  4  in READY state
+process  4  EXECUTING at CPU
+process  4  in I/O queue
+process  4  in I/O channel
+process  4  in READY state
+process  4  EXECUTING at CPU
+process  4  in I/O queue
+process  4  in I/O channel
+process  4  in READY state
+process  4  EXECUTING at CPU
+process  4  in I/O queue
+process  4  in I/O channel
+process  4  in READY state
+process  4  EXECUTING at CPU
+process  4  in I/O queue
+process  4  in I/O channel
+process  4  in READY state
+process  4  EXECUTING at CPU
+process  4  in I/O queue
+process  4  in I/O channel
+process  4  in READY state
+process  4  EXECUTING at CPU
+process  4  in I/O queue
+process  4  FINAL Execution
+process  4  TERMINATED at  2670
+---------------------------------------------------------------------------------------
+-----------------------------------FCFS----------------------------------------------------
+P	AT	BT	CT	TT	WT
+0	65	415	522	457	872
+1	6	227	770	764	991
+2	98	524	1336	1238	1762
+3	16	156	1504	1488	1644
+4	115	582	2122	2007	2589
+5	110	7	2129	2019	2026
+6	17	54	2183	2166	2220
+7	45	59	2242	2197	2256
+8	65	160	2411	2346	2506
+9	77	241	2664	2587	2828
+Average Turnaround Time: 1726.9
+Average Waiting Time: 1969.4
+CPU Utilization: 79.49510106805543
+-----------------------------------SJF----------------------------------------------------
+P	AT	BT	CT	TT	WT
+5	110	7	117	7	14
+6	17	54	177	160	214
+7	45	59	242	197	256
+3	16	156	410	394	550
+8	65	160	582	517	677
+1	6	227	824	818	1045
+9	77	241	1080	1003	1244
+0	65	415	1516	1451	1866
+2	98	524	2064	1966	2490
+4	115	582	2670	2555	3137
+Average Turnaround Time: 906.8
+Average Waiting Time: 1149.3
+CPU Utilization: 75.6089911134344
+------------------------------------RR(20)---------------------------------------------------
+P	AT	BT	CT	WT
+0	110	7	1139	1132
+1	17	54	805	751
+2	45	59	155	96
+3	16	156	363	207
+4	65	160	1077	917
+5	6	227	2059	1832
+6	77	241	1533	1292
+7	65	415	2304	1889
+8	98	524	428	-96
+9	115	582	2316	1734
+Sequence of process  ->P0->P1->P2->P0->P1->P2->P3->P0->P1->P2->P4->P5->P0->P1->P3->P6->P0->P1->P3->P4->P5->P6->P7->P0->P4->P5->P8->P9->P1->P4->P5->P6->P7->P0->P9->P1->P6->P7->P4->P5->P0->P1->P9->P6->P7->P0->P4->P5->P9->P4->P5->P6->P7->P0->P6->P7->P9->P4->P5->P0->P9->P6->P7->P0->P5->P9->P6->P7->P5->P9->P6->P7->P5->P9->P6->P7->P5->P9->P6->P7->P5->P9->P6->P7->P5->P9->P7->P5->P9->P7->P5->P9->P7->P5->P9->P7->P5->P9->P7->P5->P9->P7->P5->P9->P7->P5->P9->P7->P9->P7->P9->P7->P9->P7->P9->P7->P9->P7->P9->P7->P9->P7->P9->P9->P9->P9
+Average Waiting Time: 975.4
+Average Compilation Time: 1217.9
+CPU Utilization: 80.08867723129978
+------------------------------------RR(25)---------------------------------------------------
+P	AT	BT	CT	WT
+0	110	7	1184	1177
+1	17	54	915	861
+2	45	59	240	181
+3	16	156	378	222
+4	65	160	1152	992
+5	6	227	2069	1842
+6	77	241	1508	1267
+7	65	415	2284	1869
+8	98	524	428	-96
+9	115	582	2316	1734
+Sequence of process  ->P0->P1->P2->P0->P1->P2->P3->P0->P4->P5->P1->P2->P3->P6->P0->P1->P3->P4->P5->P7->P0->P6->P8->P9->P1->P4->P5->P6->P7->P0->P4->P5->P9->P1->P0->P6->P7->P4->P5->P1->P7->P9->P6->P0->P4->P5->P9->P7->P0->P6->P9->P4->P5->P6->P7->P0->P5->P7->P9->P6->P5->P9->P7->P6->P9->P5->P7->P6->P5->P9->P7->P9->P5->P7->P9->P5->P7->P9->P5->P7->P9->P5->P7->P9->P5->P7->P9->P5->P7->P9->P7->P9->P7->P9->P7->P9->P7->P9->P7->P9->P9->P9->P9
+Average Waiting Time: 1004.9
+Average Compilation Time: 1247.4
+CPU Utilization: 80.55956389289722
+------------------------------------RR(30)---------------------------------------------------
+P	AT	BT	CT	WT
+0	110	7	1129	1122
+1	17	54	895	841
+2	45	59	165	106
+3	16	156	343	187
+4	65	160	1127	967
+5	6	227	2039	1812
+6	77	241	1553	1312
+7	65	415	2294	1879
+8	98	524	478	-46
+9	115	582	2316	1734
+Sequence of process  ->P0->P1->P2->P0->P3->P1->P2->P4->P5->P0->P1->P3->P6->P0->P4->P5->P7->P1->P6->P8->P9->P4->P5->P0->P7->P1->P6->P9->P4->P5->P0->P1->P7->P6->P0->P4->P5->P9->P7->P6->P9->P4->P5->P0->P6->P7->P9->P5->P7->P6->P5->P9->P7->P6->P9->P5->P7->P6->P5->P9->P7->P9->P5->P7->P9->P5->P7->P9->P5->P7->P9->P5->P7->P9->P7->P9->P7->P9->P7->P9->P7->P9->P7->P9->P9->P9
+Average Waiting Time: 991.4
+Average Compilation Time: 1233.9
+CPU Utilization: 80.34686765540158
+------------------------------------RR(35)---------------------------------------------------
+P	AT	BT	CT	WT
+0	110	7	1064	1057
+1	17	54	895	841
+2	45	59	190	131
+3	16	156	418	262
+4	65	160	1129	969
+5	6	227	2054	1827
+6	77	241	1463	1222
+7	65	415	2274	1859
+8	98	524	448	-76
+9	115	582	2316	1734
+Sequence of process  ->P0->P1->P2->P0->P3->P1->P2->P4->P5->P0->P6->P1->P3->P7->P4->P5->P8->P0->P6->P9->P1->P4->P5->P7->P0->P6->P9->P1->P7->P4->P5->P0->P6->P9->P7->P0->P4->P5->P6->P9->P7->P5->P6->P9->P7->P5->P6->P9->P7->P5->P9->P7->P5->P9->P7->P5->P9->P7->P5->P9->P7->P5->P9->P7->P9->P7->P9->P7->P9->P7->P9->P9->P9
+Average Waiting Time: 982.6
+Average Compilation Time: 1225.1
+CPU Utilization: 80.20569749408212
+------------------------------------RR(40)---------------------------------------------------
+P	AT	BT	CT	WT
+0	110	7	1119	1112
+1	17	54	745	691
+2	45	59	215	156
+3	16	156	463	307
+4	65	160	1017	857
+5	6	227	2079	1852
+6	77	241	1593	1352
+7	65	415	2304	1889
+8	98	524	508	-16
+9	115	582	2316	1734
+Sequence of process  ->P0->P1->P2->P3->P0->P1->P2->P4->P5->P6->P0->P1->P3->P7->P4->P5->P8->P9->P6->P0->P1->P7->P4->P5->P9->P6->P0->P7->P4->P5->P9->P6->P0->P7->P5->P9->P6->P7->P5->P9->P6->P7->P5->P9->P6->P7->P5->P9->P7->P5->P9->P7->P5->P9->P7->P5->P9->P7->P9->P7->P9->P7->P9->P7->P9->P9
+Average Waiting Time: 993.4
+Average Compilation Time: 1235.9
+CPU Utilization: 80.3786714135448
+
+-------CPU utilization comparizon Table-----
+
+Algorithm		CPU Utilization
+FCFS    		79.49510106805543
+SJF     		75.6089911134344
+RR(Q=20)		80.08867723129978
+RR(Q=25)		80.55956389289722
+RR(Q=30)		80.34686765540158
+RR(Q=35)		80.20569749408212
+RR(Q=40)		80.3786714135448
